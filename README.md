@@ -1,6 +1,11 @@
 xBootstrap
 ==========
 
+- Theme xbootstrap4 enabled for Xoops 2.5.10 (using Bootstrap 4.5.0).
+- Following the approach used by xswatch4-enabled.
+
+---
+
 xBootstrap4 is a theme for XOOPS (www.xoops.org) developed with Bootstrap4.
 
 Online demo: http://demo.xoopsfire.com
